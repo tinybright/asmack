@@ -1,0 +1,1 @@
+## 2015-07-01: aSmack is deprecated. [Smack](https://github.com/igniterealtime/Smack) now natively supports Android. ##
